@@ -2,34 +2,47 @@
 
 ## Overview
 
-This report documents the process and outcomes of developing an interactive business dashboard to visualize a large structured dataset for the ACC/ACF2400 Accounting Information Systems course. The primary goal was to create a tool that offers an at-a-glance visualization of SCM-Athletics Solutions' business performance, focusing on financial and logistical aspects.
+This report provides a comprehensive overview of the Business Dashboard Development project completed as part of the ACC/ACF2400 Accounting Information Systems course. The objective was to create an interactive dashboard for SCM-Athletics Solutions, a company in the sports equipment and apparel sector, to visualize their business performance with a focus on financial and logistical data from 2019.
 
-## Task Objectives
+## Objectives
 
-- Design and develop a management report using good spreadsheet practices to handle and analyze large amounts of structured data.
-- Create an interactive dashboard to present financial and logistics performance in 2019.
-- Identify areas of high variance in financial and logistics performance to assist in strategic planning.
-- Provide additional analytical insights based on data analysis.
+The project aimed to:
+- Design an interactive business dashboard to provide a clear visualization of SCM-Athletics Solutions' performance in 2019.
+- Identify high-variance areas in financial and logistics performance to aid strategic planning.
+- Offer actionable insights through additional data analysis beyond the predefined management requirements.
+
+## Data Handling Tasks
+
+To achieve the project objectives, the following data handling tasks were undertaken:
+- **Data Understanding**: Comprehensive analysis of the "SupplyChainData" dataset to grasp the business context and the data structure.
+- **Data Cleaning**: Identification and rectification of inconsistencies, missing values, and anomalies in the dataset to ensure data integrity.
+- **Data Aggregation**: Consolidation of data to suit the analysis needs, such as summing up sales figures by month or region.
+- **Creation of New Columns**: Computation of key financial metrics like Sales, COGS, GP margin, Days for Shipment (real), and Shipment Status, to enrich the dataset for deeper analysis.
 
 ## Work Undertaken
 
-- **Data Preparation**: Familiarization with the "SupplyChainData" dataset and identification of key information required for the dashboard.
-- **Dashboard Development**: Development of calculated columns for key metrics within the dataset and creation of visualizations including histograms and pivot charts.
-- **Executive Summary Compilation**: Outlining key insights and recommendations for SCM-Athletics Solutions' strategic priorities in 2020.
+The project involved:
+- Developing an interactive dashboard with PivotTables, PivotCharts (including a radar chart and combo chart), histograms, and slicers to dynamically present data.
+- Crafting calculated columns within the Excel dataset for enhanced data analysis.
+- Compiling a concise Executive Summary to communicate insights and strategic recommendations based on the dashboard analysis.
 
 ## Skills Learned and Demonstrated
 
-- **Data Analysis and Visualization**: Proficiency in interpreting and visualizing data using Excel.
-- **Spreadsheet Design**: Application of good spreadsheet design principles.
-- **Critical Thinking and Problem Solving**: Analyzing business context and data to identify key performance indicators and areas of high variability.
-- **Communication**: Developing a clear and concise Executive Summary.
+Throughout this project, the following skills were learned and demonstrated:
+- **Advanced Excel Techniques**: Mastery of Excel tools such as PivotTables, PivotCharts, slicers, and histograms for data analysis and visualization.
+- **Data Cleaning and Preparation**: Proficiency in preparing data for analysis, including cleaning, aggregating, and creating new data columns.
+- **Analytical Thinking**: Ability to dissect large datasets and extract meaningful patterns, trends, and insights critical for business strategy formulation.
+- **Strategic Communication**: Development of an Executive Summary that succinctly presents findings and strategic recommendations to inform decision-making processes.
 
-## Tools and Technologies Used
+## Technologies Used
 
-- Microsoft Excel for Windows, leveraging features such as conditional formatting, form controls, and various chart types.
+The dashboard and accompanying analyses were developed using:
+- **Microsoft Excel for Windows**: Utilized for all aspects of data handling, analysis, visualization, and dashboard creation.
 
 ## Conclusion
 
-The development of the business dashboard provided valuable insights into the company's financial and logistics performance, showcasing the application of academic knowledge to practical business challenges.
+The interactive business dashboard developed for SCM-Athletics Solutions has provided valuable insights into the company's operational performance and highlighted areas requiring strategic focus. This project underscored the importance of thorough data preparation and leveraged Excel's advanced features to deliver a comprehensive analytical tool.
+
+
 
 
