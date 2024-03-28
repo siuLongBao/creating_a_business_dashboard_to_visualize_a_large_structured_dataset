@@ -1,7 +1,7 @@
 # Creating a Business Dashboard to Visualize a Large Structured Dataset
 
 ## Project Date:
-Project Start Month: September 2020
+Project Start Month: September 2020 \
 Project End Month: October 2020
 
 ## Overview
