@@ -1,5 +1,9 @@
 # Creating a Business Dashboard to Visualize a Large Structured Dataset
 
+## Project Date:
+Project Start Month: September 2020
+Project End Month: October 2020
+
 ## Overview
 
 This report provides a comprehensive overview of the Business Dashboard Development project completed as part of the ACC/ACF2400 Accounting Information Systems course. The objective was to create an interactive dashboard for SCM-Athletics Solutions, a company in the sports equipment and apparel sector, to visualize their business performance with a focus on financial and logistical data from 2019.
